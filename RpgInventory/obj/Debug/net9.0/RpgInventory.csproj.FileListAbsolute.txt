@@ -1,0 +1,11 @@
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\bin\Debug\net9.0\RpgInventory.deps.json
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\bin\Debug\net9.0\RpgInventory.dll
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\bin\Debug\net9.0\RpgInventory.pdb
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\RpgInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\RpgInventory.AssemblyInfoInputs.cache
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\RpgInventory.AssemblyInfo.cs
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\RpgInventory.csproj.CoreCompileInputs.cache
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\RpgInventory.dll
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\refint\RpgInventory.dll
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\RpgInventory.pdb
+C:\Users\lomak\OneDrive\Рабочий стол\laba2_oop\RpgInventory\obj\Debug\net9.0\ref\RpgInventory.dll
